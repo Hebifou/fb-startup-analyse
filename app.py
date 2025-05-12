@@ -63,7 +63,7 @@ with tabs[0]:
         if produkt == "Rum" and zielgruppe == "jung & urban":
             st.write("Empfehlung: Präsenz in Bars wie Bar 17° und Co-Branding mit Drink Syndikat. "
                      "Social-Media-Kampagne mit @hamburgdrinks (YouTube) oder @gastrohamburg (TikTok). "
-                     "Zusätzlich: Eventplatzierung im Feierabend Markt für Tastings.")
+                     "Eventplatzierung im Feierabend Markt für Tastings.")
         elif produkt == "Kaffee" and zielgruppe == "nachhaltig & bewusst":
             st.write("Empfehlung: Kooperation mit Kaffeeklappe (St. Pauli), Influencer-Kampagne mit @plantbasedpaula. "
                      "PR über Hamburg Kulinarisch. Testverkauf bei Brew & Bite.")
