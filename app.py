@@ -33,6 +33,13 @@ partner_data = pd.DataFrame({
 # App-Layout
 st.set_page_config(page_title="F&B Analyse Hamburg")
 st.title("Lokale Marketinganalyse für F&B-Startups – Hamburg")
+st.markdown(
+    "#### Wir helfen Food & Beverage Startups dabei, "
+    "datengestützte Marketingstrategien mit lokalen Partnern, "
+    "relevanten Medien und passenden Influencern schnell und effizient zu entwickeln."
+)
+st.markdown("---")  # fügt eine horizontale Linie als optische Trennung ein
+
 
 # Navigation
 tabs = st.tabs([
