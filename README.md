@@ -2,8 +2,7 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fb-startup-analyse.streamlit.app/)
 
-*A lightweight Streamlit prototype exploring how local F&B startups can use data-driven ideas  
-to discover partners, events, influencers, and media opportunities.*
+*A lightweight Streamlit prototype exploring how local F&B startups can use data-driven ideas to discover partners, events, influencers, and media opportunities.*
 
 > **Note:** This is a **concept experiment**, not a production app.  
 > The goal is to showcase **data + UX thinking** and a fast prototyping approach.
